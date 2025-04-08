@@ -1,5 +1,3 @@
-# Create a simple pip-compatible requirements file
-cat > requirements.txt << EOF
 streamlit
 numpy
 pandas
