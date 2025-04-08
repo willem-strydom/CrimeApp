@@ -44,5 +44,4 @@ Thumbs.db
 
 # Large data files
 *.csv
-*.pkl
 !cleaned_2021-jan2025.csv
